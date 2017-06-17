@@ -1,0 +1,25 @@
+@media screen and (max-width: 980px){
+	.header-container{
+		width:540px;
+	}
+	.container{
+		width:540px;
+	}
+	.main-section{
+		width:310px;
+	}
+	
+	.main-name{
+		padding:20px;
+		font-size:28px;
+	}
+
+	.main-links{
+		padding:20px 0;
+	}
+	.image{
+		height: 200px;
+		width: 265px;
+	}
+
+}
