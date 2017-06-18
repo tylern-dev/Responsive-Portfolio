@@ -53,7 +53,7 @@ header{
 	color:rgb(74,170,165);
 	text-decoration: none;
 	padding:5px;
-	font-size: 18px;
+	font-size: 20px;
 }
 .links:hover{
 	color:rgb(102,102,102);
@@ -195,7 +195,7 @@ textarea.form-input{
 .img-text{
 	position: absolute;
 	text-align: center;
-	top: 120px;
+	top: 55%;
 	left: 0;
 	width:100%;
 	background-color: rgb(74,170,165);
