@@ -55,6 +55,9 @@ header{
 	padding:5px;
 	font-size: 18px;
 }
+.links:hover{
+	color:rgb(102,102,102);
+}
 
 /***********************************/
 
@@ -104,7 +107,7 @@ header{
 	width:590px;
 	padding:40px 30px 40px 30px;
 	border: 1px solid rgb(74,170,165);
-	line-height: 25px;
+	line-height: 30px;
 	margin:0;
 	display: inline-block;
 	float: left;
@@ -172,12 +175,17 @@ textarea.form-input{
 
 /*****PORTFOLIO PAGE******/
 
-.portfolio-img{
+.portfolio-container{
 	height:200px;
 	width: 270px;
 	float:left;
 	position: relative;
 	margin-bottom: 20px;
+}
+
+.portfolio-img{
+	height: 200px;
+	width:270px;
 }
 
 .right-col{

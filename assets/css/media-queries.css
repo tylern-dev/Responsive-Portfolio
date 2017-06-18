@@ -1,12 +1,17 @@
 @media screen and (max-width: 980px){
 	.header-container{
-		width:540px;
+		width:730px;
 	}
 	.container{
-		width:540px;
+		width:730px;
 	}
+
+	.container-content{
+		width:730px;
+	}
+
 	.main-section{
-		width:265px;
+		width:360px;
 	}
 	
 	.main-name{
@@ -18,8 +23,26 @@
 		padding:20px 0;
 	}
 	.image{
-		height: 200px;
-		width: 265px;
+		height: 270px;
+		width: 360px;
+		margin-bottom: 20px;
+		margin-right: 0px;
+	}
+	.article{
+		margin-top: 20px;
 	}
 
+	.portfolio-container{
+		width:360px;
+		height: 270px;
+	}
+
+	.portfolio-img{
+		width:360px;
+		height: 270px;
+	}
+	
+	.img-text{
+		top:175px;
+	}
 }
